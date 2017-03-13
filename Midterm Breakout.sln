@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{08CC47F0-D9C7-8C22-1DB8-106190773B26}") = "Midterm Breakout", "Assembly-CSharp.csproj", "{1E7FAD03-DA8D-1098-37A1-F7290CDC49E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7FAD03-DA8D-1098-37A1-F7290CDC49E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7FAD03-DA8D-1098-37A1-F7290CDC49E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7FAD03-DA8D-1098-37A1-F7290CDC49E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7FAD03-DA8D-1098-37A1-F7290CDC49E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
